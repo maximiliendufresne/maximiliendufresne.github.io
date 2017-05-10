@@ -166,8 +166,9 @@
               "name": "cash-payment",
               "family": "icon54",
               "active": true,
-              "link": "https://mobirise.com",
-              "color": "#ffffff"
+              "link": "",
+              "color": "#ffffff",
+              "newWindow": false
             }
           },
           "title1": "Délais de paiement",
