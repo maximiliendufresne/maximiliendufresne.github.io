@@ -163,8 +163,8 @@
             "iconFont": {
               "class": "mbr-iconfont",
               "linkInNewWindow": false,
-              "name": "cash-payment",
-              "family": "icon54",
+              "name": "money",
+              "family": "iconsMind",
               "active": true,
               "link": "",
               "color": "#ffffff",
