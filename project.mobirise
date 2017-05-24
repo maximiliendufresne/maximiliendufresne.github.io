@@ -22,7 +22,11 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 18,
-    "versionPublish": "3.12.1"
+    "versionPublish": "3.12.1",
+    "favicon": "@PROJECT_PATH@/assets/images/cloud118-128x128.png",
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": ""
   },
   "pages": {
     "index.html": {
@@ -163,8 +167,8 @@
             "iconFont": {
               "class": "mbr-iconfont",
               "linkInNewWindow": false,
-              "name": "money",
-              "family": "FontAwesome",
+              "name": "banknote",
+              "family": "linecons",
               "active": true,
               "link": "",
               "color": "#ffffff",
@@ -296,7 +300,7 @@
           "period3": "",
           "description3": "Note globale: 38",
           "list3": "<ul class=\"list-group list-group-flush\"><br><li class=\"list-group-item\">Service de support : 10</li><li class=\"list-group-item\">Délais de paiement : 9</li><li class=\"list-group-item\">Sécurité : 9</li><li class=\"list-group-item\">Légalité : 10</li></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://goo.gl/pVzjsC\" class=\"btn btn-lg btn-primary\" data-toolbar=\"-mbrBtnMove\">VISITER LE SITE GAGNANT</a> ",
+          "button3": "<a data-app-btn=\"true\" href=\"https://goo.gl/pVzjsC\" class=\"btn btn-lg btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VISITER LE SITE GAGNANT</a> ",
           "title4": "",
           "price4": "blu",
           "period4": "",
@@ -423,7 +427,7 @@
           "list8": "<a href=\"http://mobirise.com\">Mobile menu</a>",
           "list9": "<a href=\"http://mobirise.com\">Google maps</a>",
           "list10": "<a href=\"http://mobirise.com\">Fonts and icons</a>",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"mailto:@MaximilienDufr4\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/jouezsansrisques/?view_public_for=298456823915982\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/8/106092007168314349407\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-google\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCYk38DcoxlUU0GN8V6tUoGA/featured\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       "
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"mailto:@MaximilienDufr4\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/casinosafe\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/8/106092007168314349407\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-google\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCYk38DcoxlUU0GN8V6tUoGA/featured\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       "
         },
         {
           "_tags": [
